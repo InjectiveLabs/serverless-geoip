@@ -6,7 +6,7 @@ const run = (event, ctx, callback) => {
       new Error('Invalid event data, requires IP address')
     )
   } else {
-    Reader.open(__dirname + '/../data/GeoLite2-City.mmdb',
+    Reader.open(__dirname + '/../data/GeoLite2-Country.mmdb',
       (error, reader) => callback(error, !error && reader.lookup(event.ip))
     )
   }

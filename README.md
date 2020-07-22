@@ -12,12 +12,12 @@ $ > yarn install
 
 ## Configure
 
-Download the [GeoLite2 City](http://dev.maxmind.com/geoip/geoip2/geolite2/) database and store the file inside the `data` folder.
+Download the [GeoLite2 Country](http://dev.maxmind.com/geoip/geoip2/geolite2/) database and store the file inside the `data` folder.
 
 ```bash
 .
 └── data
-    └── GeoLite2-City.mmdb
+    └── GeoLite2-Country.mmdb
 ```
 
 ## Deploy 
