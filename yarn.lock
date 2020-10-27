@@ -1030,9 +1030,9 @@ mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-mmdb-reader@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/mmdb-reader/-/mmdb-reader-1.1.0.tgz#5985cf5c33cdfc716a9823c6fe4e61b2558c05e1"
+mmdb-reader@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/mmdb-reader/-/mmdb-reader-1.2.0.tgz#29c9fdf5896a3ba5a2a3e17229e8947ca7cca6a0"
   dependencies:
     big-integer "^1.5.4"
     hashlru "^2.0.0"

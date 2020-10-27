@@ -13,7 +13,7 @@
   "author": "Sebastian Müller <mail@sbstjn.com>",
   "license": "MIT",
   "dependencies": {
-    "mmdb-reader": "^1.1.0"
+    "mmdb-reader": "^1.2.0"
   },
   "devDependencies": {
     "serverless": "^1.24.0"
