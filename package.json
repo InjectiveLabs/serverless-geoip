@@ -16,6 +16,6 @@
     "mmdb-reader": "^1.1.0"
   },
   "devDependencies": {
-    "serverless": "^1.24.0"
+    "serverless": "^2.9.0"
   }
 }
